@@ -1,5 +1,6 @@
 # How to set up "steam play"/proton *on my setup*
 
+Last updated on 16. September, 2018
 My specific  setup is ubuntu 18.04 with a r9 280x GPU
 
 ## Based on
