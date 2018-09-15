@@ -3,10 +3,10 @@
 My specific  setup is ubuntu 18.04 with a r9 280x GPU
 
 ## Based on
-https://github.com/ValveSoftware/Proton
-https://github.com/ValveSoftware/Proton/blob/proton_3.7/PREREQS.md
-https://askubuntu.com/questions/927601/i-think-im-using-radeon-instead-of-amdgpu-how-do-i-change
-https://wiki.archlinux.org/index.php/AMDGPU
+* https://github.com/ValveSoftware/Proton
+* https://github.com/ValveSoftware/Proton/blob/proton_3.7/PREREQS.md
+* https://askubuntu.com/questions/927601/i-think-im-using-radeon-instead-of-amdgpu-how-do-i-change
+* https://wiki.archlinux.org/index.php/AMDGPU
 
 * Install steam, obviously. (Through the repos!)
 * Opt into steam beta by
