@@ -8,6 +8,7 @@ My specific  setup is ubuntu 18.04 with a r9 280x GPU
 * https://askubuntu.com/questions/927601/i-think-im-using-radeon-instead-of-amdgpu-how-do-i-change
 * https://wiki.archlinux.org/index.php/AMDGPU
 
+## What to do? 
 * Install steam, obviously. (Through the repos!)
 * Opt into steam beta by
     * Going into settings (in the menu at the top)
